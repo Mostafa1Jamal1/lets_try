@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int master(void)
 {
     long double n = 123456789012345;
     printf("size of long double is: %ld\n", sizeof(long double));
