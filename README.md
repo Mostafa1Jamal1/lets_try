@@ -1,10 +1,10 @@
 the first commit , conflict
 
-access	[man 2 access]	https://man7.org/linux/man-pages/man2/access.2.html
+access	[man 2 access]	(https://man7.org/linux/man-pages/man2/access.2.html)
 
-chdir	[man 2 chdir]	https://man7.org/linux/man-pages/man2/chdir.2.html
+chdir	[man 2 chdir]	(https://man7.org/linux/man-pages/man2/chdir.2.html)
 
-close	[man 2 close]	https://man7.org/linux/man-pages/man2/close.2.html
+close	[man 2 close]	(https://man7.org/linux/man-pages/man2/close.2.html)
 
 closedir	[man 3 closedir]	https://man7.org/linux/man-pages/man3/closedir.3.html
 
