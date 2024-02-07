@@ -27,4 +27,4 @@ for argument in "$@" ; do
 done' > betty
 
 chmod a+x betty
-mv ./betty /bin/betty
+sudo mv ./betty /bin/betty
