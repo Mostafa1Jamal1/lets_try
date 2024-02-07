@@ -14,3 +14,11 @@ alias mkpy="touch file && chmod +x file && echo '\''#\!/usr/bin/python3'\'' > fi
 # this alias come from somewhere else and should be checked and modified
 # it is to make the error message colorefull
 # alias stderred="export LD_PRELOAD=/home/mostafa/stderred/build/libstderred.so${LD_PRELOAD:+:$LD_PRELOAD}"' > ~/.bash_aliases
+
+# prompt the necessaty of restart
+echo "
+.bash_aliases created successfully
+"
+echo "
+You have to restart your terminal to make the aliases work
+"
