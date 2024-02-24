@@ -10,7 +10,7 @@ alias gaa="git add ."
 alias cm="git commit -m"
 alias vrm="vim README.md"
 alias mkf="touch file && chmod +x file && mv file"
-alias mkpy="touch file && chmod +x file && echo '\''#\!/usr/bin/python3'\'' > file && mv file"
+alias mkpy="touch file && chmod +x file && echo '#!/usr/bin/python3' > file && mv file"
 # this alias come from somewhere else and should be checked and modified
 # it is to make the error message colorefull
 # alias stderred="export LD_PRELOAD=/home/mostafa/stderred/build/libstderred.so${LD_PRELOAD:+:$LD_PRELOAD}"' > ~/.bash_aliases
