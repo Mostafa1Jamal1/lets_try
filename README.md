@@ -1,4 +1,6 @@
-the first commit , conflict
+This repo is for missing around
+A play ground to make demos or test some code and such
+may be there some code I use but it is mostly random things
 
 
 
